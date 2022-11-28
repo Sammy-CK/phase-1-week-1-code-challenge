@@ -100,7 +100,7 @@ if(grossSalary > 0 && grossSalary <= 6000){
 
 
 //calculates netSalary
-    netSalary = Math.round(grossSalary-PAYE-NSSF-NHIF);
+    netSalary = Math.floor(grossSalary-PAYE-NSSF-NHIF);
 
 //outputs the gross salary, NSSF, NHIF, PAYEE and net Salary
     grossOutput.textContent =  `Gross Salary: KSH ${grossSalary}`;
