@@ -16,17 +16,15 @@ HTML, CSS and JavaScript.
 ## Installation
 clone project from github:  git@github.com:Sammy-CK/phase-1-week-1-code-challenge.git
 
-Install my-project with npm:
+Navigate into file:
 
-npm Install
-
-Start program with:
-
-npm start
+phase-1-week-1-code-challenge in local repository
 
 To open in browser:
 
-explorer.exe index.js
+explorer.exe index.html
+
+Run program from the index.html file.
 
 
 
