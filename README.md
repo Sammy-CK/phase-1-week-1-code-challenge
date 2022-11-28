@@ -20,11 +20,15 @@ Navigate into file:
 
 phase-1-week-1-code-challenge in local repository
 
-To open in browser:
+To open site in browser:
 
 explorer.exe index.html
 
 Run program from the index.html file.
+
+OR 
+
+Use Github pages to check out website
 
 
 
