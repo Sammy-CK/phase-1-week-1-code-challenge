@@ -29,7 +29,7 @@ explorer.exe index.html
 
 Run program from the index.html file in browser.
 
-##ALTERNATIVE 2
+## ALTERNATIVE 2
 
 Use Github pages to check out website and perform operations from there.
 
