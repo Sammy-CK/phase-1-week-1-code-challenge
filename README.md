@@ -15,6 +15,8 @@ HTML, CSS and JavaScript.
 
 
 ## Installation
+
+## ALTERNATIVE 1
 clone project from github:  git@github.com:Sammy-CK/phase-1-week-1-code-challenge.git
 
 Navigate into file:
@@ -25,11 +27,11 @@ To open site in browser:
 
 explorer.exe index.html
 
-Run program from the index.html file.
+Run program from the index.html file in browser.
 
-OR 
+##ALTERNATIVE 2
 
-Use Github pages to check out website
+Use Github pages to check out website and perform operations from there.
 
 
 
